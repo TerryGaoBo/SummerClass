@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/8/3 10:44:35。
+     1>项目“E:\C代码\北郊暑期班\20190803\20190803\20190803.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TC /errorReport:prompt add.c test.c
+         add.c
+         test.c
+         正在生成代码...
+       Link:
+         D:\vs2012\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C代码\北郊暑期班\20190803\x64\Debug\20190803.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"E:\C代码\北郊暑期班\20190803\x64\Debug\20190803.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C代码\北郊暑期班\20190803\x64\Debug\20190803.lib" /MACHINE:X64 x64\Debug\add.obj
+         x64\Debug\test.obj
+         20190803.vcxproj -> E:\C代码\北郊暑期班\20190803\x64\Debug\20190803.exe
+     1>已完成生成项目“E:\C代码\北郊暑期班\20190803\20190803\20190803.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.35
